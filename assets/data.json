@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "emoji": "😀",
+    "name": "Grinning Face",
+    "description": "A yellow face with simple, open eyes and a broad, open smile, showing upper teeth and tongue on some platforms. Often conveys general pleasure and good cheer or humor.\n\nGrinning Face was approved as part of Unicode 6.1 in 2012 and added to Emoji 1.0 in 2015."
+  },
+  {
+    "id": 2,
+    "emoji": "😉",
+    "name": "Winking Face",
+    "description": "A yellow face with a slight smile shown winking, usually its left eye. May signal a joke, flirtation, hidden meaning, or general positivity. Tone varies, including playful, affectionate, suggestive, or ironic.\n\nWinking Face was approved as part of Unicode 6.0 in 2010 and added to Emoji 1.0 in 2015."
+  },
+  {
+    "id": 3,
+    "emoji": "☺️",
+    "name": "Smiling Face",
+    "description": "A classic smiley. A yellow face with a modest smile, rosy cheeks, and soft, closed eyes. Many platforms, including Apple, feature relaxed eyebrows. Conveys a wide range of warm, positive feelings, including love, happiness, and gratitude.\n\nSmiling Face was approved as part of Unicode 1.1 in 1993 under the name “White Smiling Face” and added to Emoji 1.0 in 2015."
+  },
+  {
+    "id": 4,
+    "emoji": "😗",
+    "name": "Kissing Face",
+    "description": "A yellow face with simple, open eyes and puckered lips giving a kiss. Commonly conveys sentiments of love and affection.\nthis emoji is sometimes taken to represent whistling, especially when paired with a musical note. May convey such feelings as surprise, admiration, contempt, or feigned innocence.\n\nKissing Face was approved as part of Unicode 6.1 in 2012 and added to Emoji 1.0 in 2015."
+  },
+  {
+    "id": 5,
+    "emoji": "😛",
+    "name": "Face with Tongue",
+    "description": "A yellow face with small, open eyes and a big grin, playfully sticking out its tongue. Can variously convey a sense of fun, excitement, silliness, cuteness, happiness, or jesting, as if saying Just kidding!\n\nFace with Tongue was approved as part of Unicode 6.1 in 2012 under the name “Face with Stuck-Out Tongue” and added to Emoji 1.0 in 2015."
+  },
+  {
+    "id": 6,
+    "emoji": "🤑",
+    "name": "Face with Money",
+    "description": "A yellow face with raised eyebrows, dollar signs for eyes, and an open smile sticking out a tongue styled after a green, dollar banknote. Some platforms depict the dollar-sign eyes in green circles.\nUsed for a wide range of content dealing with money, including: making money, loving wealth, being or feeling rich, and concepts of success and excellence (e.g., on the money).\n\nMoney-Mouth Face was approved as part of Unicode 8.0 in 2015 and added to Emoji 1.0 in 2015."
+  },
+  {
+    "id": 7,
+    "emoji": "🤗",
+    "name": "Hugging Face",
+    "description": "A yellow face smiling with open hands, as if giving a hug. May be used to offer thanks and support, show love and care, or express warm, positive feelings more generally.\nDue to its hand gesture, often used to represent jazz hands, indicating such feelings as excitement, enthusiasm, or a sense of flourish or accomplishment.\n\nHugging Face was approved as part of Unicode 8.0 in 2015 and added to Emoji 1.0 in 2015."
+  },
+  {
+    "id": 8,
+    "emoji": "🤔",
+    "name": "Thinking Face",
+    "description": "A yellow face with furrowed eyebrows looking upwards with thumb and index finger resting on its chin. Intended to show a person pondering or deep in thought. Often used to question or scorn something or someone, as if saying Hmm, I don't know about that. Tone varies, including earnest, playful, puzzled, skeptical, and mocking.\n\nThinking Face was approved as part of Unicode 8.0 in 2015 and added to Emoji 1.0 in 2015."
+  },
+  {
+    "id": 9,
+    "emoji": "😐",
+    "name": "Neutral Face",
+    "description": "A yellow face with simple, open eyes and a flat, closed mouth. Intended to depict a neutral sentiment but often used to convey mild irritation and concern or a deadpan sense of humor.\n\nNeutral Face was approved as part of Unicode 6.0 in 2010 and added to Emoji 1.0 in 2015."
+  },
+  {
+    "id": 10,
+    "emoji": "😏",
+    "name": "Smirking Face",
+    "description": "A yellow face with a sly, smug, mischievous, or suggestive facial expression. It features a half-smile, raised eyebrows, and eyes looking to the side. Often used to convey flirtation or sexual innuendo.\n\nSmirking Face was approved as part of Unicode 6.0 in 2010 and added to Emoji 1.0 in 2015."
+  },
+  {
+    "id": 11,
+    "emoji": "😌",
+    "name": "Relieved Face",
+    "description": "A yellow face with soft, closed eyes, raised eyebrows, and a slight smile. Facebook’s design features a slightly open mouth, as if sighing.\nConveys various pleasant feelings, including contentment, calm, peace, and relief. May also convey feelings of happiness or good-natured humor more generally.\n\nRelieved Face was approved as part of Unicode 6.0 in 2010 and added to Emoji 1.0 in 2015."
+  },
+  {
+    "id": 11,
+    "emoji": "😌",
+    "name": "Cold Face",
+    "description": "An icy-blue face with gritted teeth usually depicted with icicles clinging to its cheeks or jaw, as if frozen from extreme cold. May also represent unfriendliness (slang, cold) or excellence (slang, cool or chill).\n\nCold Face was approved as part of Unicode 11.0 in 2018 under the name “Freezing Face” and added to Emoji 11.0 in 2018."
+  }
+]
